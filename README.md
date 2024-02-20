@@ -25,8 +25,9 @@ When prompted, enter the subnet you want to scan (e.g., 192.168.0.0/24).
 The script will perform a network mapping scan using Nmap and display the discovered hosts along with their IP addresses and hostnames (if available).
 
 Example
-yaml
-Copy code
+
+
+
 Enter subnet to scan: 192.168.0.0/24
 
 Host found: 192.168.0.1 (router.example.com)
